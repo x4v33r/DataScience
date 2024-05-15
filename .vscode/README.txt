@@ -1,0 +1,1 @@
+Move .clang-format outside of the .vscode folder

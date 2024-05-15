@@ -1,4 +1,7 @@
 {
-  "python.analysis.typeCheckingMode": "basic",
-  "python.analysis.autoImportCompletions": true
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true
 }
